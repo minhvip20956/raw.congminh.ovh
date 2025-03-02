@@ -21,3 +21,7 @@ Ngày cập nhật: 02/03/2025
 [https://raw.congminh.ovh/bing-ipv4.txt](https://raw.congminh.ovh/bing-ipv4.txt)
 
 [https://raw.congminh.ovh/bing-ipv6.txt](https://raw.congminh.ovh/bing-ipv6.txt)
+
+[https://raw.congminh.ovh/gmail-ipv4.txt](https://raw.congminh.ovh/gmail-ipv4.txt)
+
+[https://raw.congminh.ovh/gmail-ipv6.txt](https://raw.congminh.ovh/gmail-ipv6.txt)
