@@ -1,6 +1,6 @@
 # Danh sách các tệp tin RAW được cung cấp miễn phí bởi BNIX.VN. Update tự động hàng ngày.
 
-Săn khuyến mãi VPS chỉ từ 399k/năm đến từ BNIX.VN nhà cung cấp Hosting - VPS - Server hàng đầu Việt Nam tại [https://bnix.vn/km](https://bnix.vn/km)
+Săn khuyến mãi VPS CPU Xeon Platinum chỉ từ 399k/năm đến từ BNIX.VN nhà cung cấp Hosting - VPS - Server hàng đầu Việt Nam tại [https://bnix.vn/km](https://bnix.vn/km)
 
 Ngày cập nhật: 02/03/2025
 
