@@ -7,3 +7,5 @@ Săn khuyến mãi VPS chỉ từ 399k/năm đến từ BNIX.VN nhà cung cấp 
 [https://raw.congminh.ovh/vn-ipv6.txt](https://raw.congminh.ovh/vn-ipv6.txt)
 
 [https://raw.congminh.ovh/vn-asn.txt](https://raw.congminh.ovh/vn-asn.txt)
+
+date: "`r format(Sys.time(), '%d %B, %Y')`"
