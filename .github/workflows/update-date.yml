@@ -1,28 +1,24 @@
 name: Update README Date
 
-# Kích hoạt workflow
 on:
   schedule:
-    - cron: '0 1 * * *' # Chạy hàng ngày lúc 01:00 UTC (có thể tùy chỉnh)
-  workflow_dispatch: # Cho phép chạy thủ công nếu cần
+    - cron: '0 0 * * *' # Chạy hàng ngày lúc 00:00 UTC
+  workflow_dispatch:
 
 jobs:
   update-date:
     runs-on: ubuntu-latest
     steps:
-      # Checkout repository để truy cập file README.md
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Cập nhật ngày tháng trong README.md
       - name: Update date in README.md
         run: |
           # Lấy ngày hiện tại theo định dạng DD/MM/YYYY
           CURRENT_DATE=$(date +'%d/%m/%Y')
-          # Tìm và thay thế dòng "Ngày cập nhật:" bằng ngày hiện tại
-          sed -i "s/Ngày cập nhật: .*/Ngày cập nhật: $CURRENT_DATE/" README.md
+          # Dùng # làm dấu phân cách thay vì /
+          sed -i "s#Ngày cập nhật: .*#Ngày cập nhật: $CURRENT_DATE#" README.md
 
-      # Commit và push thay đổi
       - name: Commit changes
         run: |
           git config --global user.name "GitHub Actions Bot"
