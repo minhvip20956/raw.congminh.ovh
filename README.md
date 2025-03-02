@@ -10,4 +10,4 @@ Ngày cập nhật: 01/01/2000
 
 [https://raw.congminh.ovh/vn-asn.txt](https://raw.congminh.ovh/vn-asn.txt)
 
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+
