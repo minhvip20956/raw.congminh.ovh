@@ -10,4 +10,10 @@ Ngày cập nhật: 02/03/2025
 
 [https://raw.congminh.ovh/vn-asn.txt](https://raw.congminh.ovh/vn-asn.txt)
 
+[https://raw.congminh.ovh/google-ipv4.txt](https://raw.congminh.ovh/google-ipv4.txt)
 
+[https://raw.congminh.ovh/google-ipv6.txt](https://raw.congminh.ovh/google-ipv6.txt)
+
+[https://raw.congminh.ovh/google-cloud-ipv4.txt](https://raw.congminh.ovh/google-cloud-ipv4.txt)
+
+[https://raw.congminh.ovh/google-cloud-ipv6.txt](https://raw.congminh.ovh/google-cloud-ipv6.txt)
