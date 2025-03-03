@@ -29,3 +29,7 @@ Ngày cập nhật: 03/03/2025
 [https://raw.congminh.ovh/outlook-ipv4.txt](https://raw.congminh.ovh/outlook-ipv4.txt)
 
 [https://raw.congminh.ovh/outlook-ipv6.txt](https://raw.congminh.ovh/outlook-ipv6.txt)
+
+[https://raw.congminh.ovh/facebook-ipv4.txt](https://raw.congminh.ovh/facebook-ipv4.txt)
+
+[https://raw.congminh.ovh/facebook-ipv6.txt](https://raw.congminh.ovh/facebook-ipv6.txt)
