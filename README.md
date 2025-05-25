@@ -1,6 +1,6 @@
 # Danh sách các tệp tin RAW được cung cấp miễn phí bởi BNIX.VN. Update tự động hàng ngày.
 
-Săn khuyến mãi VPS CPU Xeon Gold chỉ từ 399k/năm đến từ BNIX.VN nhà cung cấp Hosting - VPS - Server hàng đầu Việt Nam tại [https://bnix.vn/km](https://bnix.vn/km)
+Săn khuyến mãi VPS CPU Xeon Gold/Platinum đời mới chỉ từ 399k/năm đến từ BNIX.VN nhà cung cấp Hosting - VPS - Server hàng đầu Việt Nam tại [https://bnix.vn/km](https://bnix.vn/km)
 
 Ngày cập nhật: 25/05/2025
 
@@ -33,3 +33,7 @@ Ngày cập nhật: 25/05/2025
 [https://raw.congminh.ovh/facebook-ipv4.txt](https://raw.congminh.ovh/facebook-ipv4.txt)
 
 [https://raw.congminh.ovh/facebook-ipv6.txt](https://raw.congminh.ovh/facebook-ipv6.txt)
+
+[https://raw.congminh.ovh/telegram-ipv4.txt](https://raw.congminh.ovh/telegram-ipv4.txt)
+
+[https://raw.congminh.ovh/telegram-ipv6.txt](https://raw.congminh.ovh/telegram-ipv6.txt)
