@@ -2,7 +2,7 @@
 
 Săn khuyến mãi VPS CPU Xeon Gold/Platinum đời mới chỉ từ 399k/năm đến từ BNIX.VN nhà cung cấp Hosting - VPS - Server hàng đầu Việt Nam tại [https://bnix.vn/km](https://bnix.vn/km)
 
-Ngày cập nhật: 17/06/2025
+Ngày cập nhật: 18/06/2025
 
 [https://raw.congminh.ovh/vn-ipv4.txt](https://raw.congminh.ovh/vn-ipv4.txt)
 
