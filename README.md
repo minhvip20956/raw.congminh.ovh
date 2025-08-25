@@ -1,6 +1,6 @@
 # Danh sách các tệp tin RAW được cung cấp miễn phí bởi CONGMINH. Update tự động hàng ngày.
 
-Ngày cập nhật: 24/08/2025
+Ngày cập nhật: 25/08/2025
 
 
 
